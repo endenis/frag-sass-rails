@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["endenis"]
   spec.email         = ["public.endenis@gmail.com"]
   spec.summary       = %q{Frag-grid gem for Ruby on Rails}
-  spec.description   = %q{Ruby on Rails gem for Frag, a grid system for CSS written in Sass}
-  spec.homepage      = ""
+  spec.description   = %q{A ruby on rails gem for frag, a grid system for css written in sass.}
+  spec.homepage      = "https://github.com/endenis/frag-sass-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
