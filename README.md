@@ -1,4 +1,4 @@
-# frag-sass-rails
+# frag-sass-rails [![Gem Version](https://badge.fury.io/rb/frag-sass-rails.png)](http://badge.fury.io/rb/frag-sass-rails)
 
 *frag-sass-rails* is a Ruby on Rails gem for [Frag](https://github.com/rowanmanning/frag), a grid system for CSS written in [Sass](http://sass-lang.com/).
 
@@ -13,7 +13,7 @@ And then execute:
     $ bundle
 
 
-In order to use Frag in your application, assuming you're already using Sass, you should import it in your sass-file like this:
+In order to use Frag in your application, assuming you're already using Sass, you should import it in your scss-file like this:
 
 ```scss
 @import "frag-sass-rails/frag";
